@@ -23,7 +23,7 @@
 ### 🤗 欢迎来访
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=mr-dragon.mr-dragon)![](https://badges.pufler.dev/years/mr-dragon)![](https://badges.pufler.dev/repos/mr-dragon)![](https://badges.pufler.dev/commits/monthly/mr-dragon)![](https://img.shields.io/github/followers/mr-dragon?label=Followers)[![Mail Badge](https://img.shields.io/badge/-lx-dragon@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lx-dragon@qq.com)](mailto:lx-dragon@qq.com)
+![](https://visitor-badge.laobi.icu/badge?page_id=mr-dragon.mr-dragon)![](https://badges.pufler.dev/years/mr-dragon)![](https://badges.pufler.dev/repos/mr-dragon)![](https://badges.pufler.dev/commits/monthly/mr-dragon)![](https://img.shields.io/github/followers/mr-dragon?label=Followers)
 
 ### 🧰 语言工具
 
@@ -36,7 +36,7 @@
 <div align="center">
 
 
-![龙圣贤's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+![龙圣贤's github stats](https://github-readme-stats.vercel.app/api?username=mr-dragon&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-dragon&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 ![profile](https://github-profile-trophy.vercel.app/?username=mr-dragon&theme=algolia&column=8)
 
